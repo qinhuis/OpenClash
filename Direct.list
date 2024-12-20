@@ -2,20 +2,21 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,hf-bopp.com
 DOMAIN-SUFFIX,bmdint.com
 DOMAIN-SUFFIX,bmdint.cn
+DOMAIN-SUFFIX,hf-bopp.com
 DOMAIN-SUFFIX,fancysu.com
-DOMAIN-SUFFIX,jd.com
-
+DOMAIN-SUFFIX,ajuste.com.cn
+DOMAIN-SUFFIX,bmdint.cn
+DOMAIN-SUFFIX,fancysu.com
+DOMAIN-SUFFIX,taichuan.net
+DOMAIN-SUFFIX,taichuan.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,192.46.225.16/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
