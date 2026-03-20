@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,assets.msn.com
 DOMAIN-SUFFIX,edge-chat.msn.com
 DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,arc.msn.com
+DOMAIN-SUFFIX,fd.api.iris.microsoft.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
