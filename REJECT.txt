@@ -1,0 +1,24 @@
+# microsoft-reject.list（温和屏蔽：仅无用后台，保留核心功能）
+arc.msn.com
+fd.api.iris.microsoft.com
+mobile.events.data.microsoft.com
+browser.events.data.msn.cn
+data.microsoft.com
+events.data.microsoft.com
+v10.events.data.microsoft.com
+telemetry.microsoft.com
+watson.microsoft.com
+msn.com
+ads.msn.com
+assets.msn.com
+edge-chat.msn.com
+bingads.com
+#360
+60.com
+360kuai.com
+360safe.com
+dhrest.com
+qhres.com
+qhstatic.com
+qhupdate.com
+so.com
