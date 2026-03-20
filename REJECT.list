@@ -12,6 +12,18 @@ DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,assets.msn.com
 DOMAIN-SUFFIX,edge-chat.msn.com
 DOMAIN-SUFFIX,smartscreen.microsoft.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,mobile.events.data.microsoft.com
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,v10.events.data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,watson.microsoft.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,ads.msn.com
+DOMAIN-SUFFIX,assets.msn.com
+DOMAIN-SUFFIX,edge-chat.msn.com
+DOMAIN-SUFFIX,bingads.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
