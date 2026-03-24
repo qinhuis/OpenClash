@@ -16,7 +16,7 @@ proxy-providers:
       additional-prefix: "红杏 |"
       #additional-suffix: "| 后缀"
   🐮 牛牛:
-    url: "https://zhuzhuzhu.whtjdasha.com/api/v1/client/subscribe?token=7b401a55159fa5cbe5f1a75c4d4603fa"
+    url: "https://zhuzhuzhu.whtjdasha.com/dazhutou/7b401a55159fa5cbe5f1a75c4d4603fa"
     type: http
     interval: 86400
     health-check:
@@ -132,8 +132,8 @@ dns:
  
  
 # 锚点
-pr: &pr {type: select, proxies: [♻️ 自动选择, 💖 红杏, 🐮 牛牛, 👽 魔戒, ♻️ 香港智能, ♻️ 日本智能, ♻️ 狮城智能, ♻️ 美国智能, 🤙 IPV6智能, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🌐 全部节点, 🆓 平价智能, 直连]}
-gpt: &gpt {type: select, proxies: [G GPT, ♻️ 自动选择, ♻️ 美国智能, 🇺🇲 美国节点, 🌐 全部节点]}
+pr: &pr {type: select, proxies: [♻️ 自动选择, 💖 红杏, 🐮 牛牛, 👽 魔戒, ♻️ 香港智能, ♻️ 日本智能, ♻️ 狮城智能, ♻️ 美国智能, 🤙 IPV6智能, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 狮城节点, 🇺🇲 美国节点, 🌐 全部节点, 🆓 平价智能, 直连, REJECT-DROP]}
+gpt: &gpt {type: select, proxies: [G GPT, ♻️ 自动选择, ♻️ 美国智能, 🇺🇲 美国节点, 🌐 全部节点, REJECT-DROP]}
 tk: &tk {type: select, proxies: [♻️ 自动选择, ♻️ 日本智能, ♻️ 美国智能, 🇯🇵 日本节点, 🇺🇲 美国节点, 🌐 全部节点]}
 nf: &nf {type: select, proxies: [🎥 奈飞节点, ♻️ 自动选择, ♻️ 日本智能, ♻️ 美国智能, 🇯🇵 日本节点, 🇺🇲 美国节点, 🌐 全部节点]} 
 # 出站策略 smart参数 （ uselightgbm: false, collectdata: false, strategy: sticky-sessions,policy-priority: "Premium:0.9;SG:1.3" ）
@@ -153,7 +153,7 @@ proxy-groups:
   - {name: 🎥 NETFLIX, !!merge <<: *nf}
   - {name: ✈️ Speedtest, !!merge <<: *pr}
   - {name: 💶 PayPal, !!merge <<: *pr}
-  - {name: 🍎 Apple, type: select, proxies: [直连, 🚀 默认代理]}
+  - {name: 🍎 Apple, !!merge <<: *pr}
   - {name: 🐟 漏网之鱼, !!merge <<: *pr}
 
   - {name: 🇭🇰 香港节点, type: select, include-all: true, filter: "(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|深|美|官网|邮箱|0.5)).)*$"}
@@ -172,11 +172,11 @@ proxy-groups:
   - {name: 🎥 奈飞节点, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)NETFLIX|奈飞|NetFlix|流媒体解锁|IEPL"}
   - {name: G GPT, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)GPT|Gpt|gpt|美国IEPL"}
   - {name: 🤙 IPV6智能, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?i)ipv6"}  
-  - {name: 💖 红杏, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(红杏))^((?!(直连|建议|官网|节点|刷新|邮箱|0.1X|0.1x|0.5X|0.5x|剩余|套餐|流媒体解锁)).)*$"}
-  - {name: 🐮 牛牛, type: smart, uselightgbm: false, collectdata: false, include-all: true, interval: 300, filter: "(?=.*(牛牛))^((?!(直连|建议|官网|节点|刷新|邮箱|0.1X|0.1x|0.5X|0.5x|剩余|套餐|流媒体解锁)).)*$"}
-  - {name: 👽 魔戒, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(魔戒))^((?!(直连|建议|官网|节点|刷新|邮箱|0.1X|0.1x|0.5X|0.5x|剩余|套餐|流媒体解锁)).)*$"}
-  - {name: ♻️ 自动选择, type: smart, uselightgbm: false, collectdata: false, include-all: true, interval: 300, filter: "^((?!(直连|剩余|套餐|官网|邮箱|异常|更新)).)*$"}
-  - {name: 🌐 全部节点, type: select, include-all: true, filter: "^((?!(剩余|套餐|官网|邮箱|异常|更新)).)*$"}
+  - {name: 💖 红杏, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(红杏))^((?!(直连|建议|官网|节点|刷新|邮箱|过滤|剩余|套餐)).)*$"}
+  - {name: 🐮 牛牛, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(牛牛))^((?!(如果|是客|网站直连|建议|请到|更新|官网|节点|刷新|邮箱|过滤|剩余|套餐)).)*$"}
+  - {name: 👽 魔戒, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(魔戒))^((?!(直连|建议|官网|节点|刷新|邮箱|过滤|剩余|套餐)).)*$"}
+  - {name: ♻️ 自动选择, type: smart, uselightgbm: false, collectdata: false, include-all: true, interval: 300, filter: "^((?!(如果|是客|网站|剩余|过滤|直连|剩余|套餐|官网|邮箱|异常|更新)).)*$"}
+  - {name: 🌐 全部节点, type: select, include-all: true, filter: "^((?!(如果|是客|网站|剩余|套餐|官网|过滤|邮箱|异常|更新)).)*$"}
 
 
 # 规则匹配
