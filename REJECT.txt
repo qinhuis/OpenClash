@@ -43,6 +43,8 @@ img-s-msn-com.akamaized.net
 img-s.msn.cn
 deff.nelreports.net
 functional.events.data.microsoft.com
+p-ring.msedge.net
+ts3.tc.mm.bing.net
 
 seagullscientific.com
 #360
