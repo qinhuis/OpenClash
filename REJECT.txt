@@ -55,6 +55,7 @@ seagullscientific.com
 *.qhstatic.com
 *.qhupdate.com
 *.so.com
+*.360totalsecurity.com
 360.cn
 www.360.cn
 360.com
