@@ -42,6 +42,7 @@ c.msn.cn
 img-s-msn-com.akamaized.net
 img-s.msn.cn
 deff.nelreports.net
+functional.events.data.microsoft.com
 
 seagullscientific.com
 #360
