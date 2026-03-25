@@ -35,6 +35,11 @@ feedback.windows.com
 df.telemetry.microsoft.com
 office15client.microsoft.com
 officeclient.microsoft.com
+api.msn.cn
+assets.msn.cn
+c.msn.cn
+img-s-msn-com.akamaized.net
+img-s.msn.cn
 
 seagullscientific.com
 #360
