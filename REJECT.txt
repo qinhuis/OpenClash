@@ -16,6 +16,25 @@ bingads.com
 kv801.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 cp801.prod.do.dsp.mp.microsoft.com
+cp*.prod.do.dsp.mp.microsoft.com
+kv*.prod.do.dsp.mp.microsoft.com
+v*.prod.do.dsp.mp.microsoft.com
+dsp.mp.microsoft.com
+devicehealth.authspext.azureedge.net
+devicehealth.microsoftonline.com
+devicehealthanalyticsapi.trafficmanager.net
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+telemetry.officeapps.live.com
+officetelemetry.microsoft.com
+feedback.microsoft.com
+feedback.windows.com
+df.telemetry.microsoft.com
+office15client.microsoft.com
+officeclient.microsoft.com
 
 seagullscientific.com
 #360
