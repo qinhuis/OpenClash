@@ -3,6 +3,7 @@ arc.msn.com
 fd.api.iris.microsoft.com
 mobile.events.data.microsoft.com
 browser.events.data.msn.cn
+browser.events.data.msn.com
 data.microsoft.com
 events.data.microsoft.com
 v10.events.data.microsoft.com
