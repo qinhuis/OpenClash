@@ -41,6 +41,7 @@ assets.msn.cn
 c.msn.cn
 img-s-msn-com.akamaized.net
 img-s.msn.cn
+deff.nelreports.net
 
 seagullscientific.com
 #360
