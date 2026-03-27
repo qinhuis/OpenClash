@@ -126,5 +126,7 @@ redirector.gvt1.com
 shuc-pc-hunt.ksord.com
 unpm-upaas.quark.cn
 x.so123.com
-
-
+1.192.136.132
+119.3.160.204
+180.153.232.181
+27.155.121.221
