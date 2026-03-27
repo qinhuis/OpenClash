@@ -119,3 +119,12 @@ m.360.cn
 m.360safe.com
 shouji.360.cn
 zhushou.360.cn
+acs.m.taobao.com
+ocsp.globalsign.com
+rc10-fc04.oray.com
+redirector.gvt1.com
+shuc-pc-hunt.ksord.com
+unpm-upaas.quark.cn
+x.so123.com
+
+
