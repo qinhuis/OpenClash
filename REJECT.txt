@@ -125,3 +125,4 @@ redirector.gvt1.com
 shuc-pc-hunt.ksord.com
 unpm-upaas.quark.cn
 x.so123.com
+mmbiz.qpic.cn
