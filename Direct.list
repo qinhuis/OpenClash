@@ -14,6 +14,16 @@ DOMAIN-SUFFIX,taichuan.net
 DOMAIN-SUFFIX,zhsiwei.com
 DOMAIN-SUFFIX,geekxw.top
 DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,hf-bopp.com
+DOMAIN-SUFFIX,bmdint.cn
+DOMAIN-SUFFIX,bmdint.com
+DOMAIN-SUFFIX,bmdint.com.cn
+DOMAIN-SUFFIX,fancysu.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,gicp.net
+DOMAIN-SUFFIX,ondemand.esker.com
+DOMAIN-SUFFIX,gomicx.net
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
