@@ -1,26 +1,22 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
-
-# MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,bmdint.com
-DOMAIN-SUFFIX,bmdint.cn
-DOMAIN-SUFFIX,hf-bopp.com
-DOMAIN-SUFFIX,ajuste.com.cn
-DOMAIN-SUFFIX,bmdint.cn
-DOMAIN-SUFFIX,fancysu.com
-DOMAIN-SUFFIX,taichuan.net
-DOMAIN-SUFFIX,taichuan.net
-DOMAIN-SUFFIX,zhsiwei.com
-DOMAIN-SUFFIX,geekxw.top
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,hf-bopp.com
-DOMAIN-SUFFIX,bmdint.cn
-DOMAIN-SUFFIX,bmdint.com
-DOMAIN-SUFFIX,bmdint.com.cn
-DOMAIN-SUFFIX,fancysu.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,gicp.net
-DOMAIN-SUFFIX,ondemand.esker.com
-DOMAIN-SUFFIX,gomicx.net
-DOMAIN-SUFFIX,74c213b06832589ff142c36fd2c7a99a.z1jd-q8rm-6vpa-xk3t-bc9l.sbs
++.bmdint.com
++.bmdint.cn
++.hf-bopp.com
++.ajuste.com.cn
++.bmdint.cn
++.fancysu.com
++.taichuan.net
++.taichuan.net
++.zhsiwei.com
++.geekxw.top
++.alibaba.com
++.hf-bopp.com
++.bmdint.cn
++.bmdint.com
++.bmdint.com.cn
++.fancysu.com
++.jd.com
++.gicp.net
++.ondemand.esker.com
++.gomicx.net
++.z1jd-q8rm-6vpa-xk3t-bc9l.sbs
 
