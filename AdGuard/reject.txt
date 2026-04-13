@@ -46,3 +46,4 @@
 ||ts3.tc.mm.bing.net^
 ||ts1.tc.mm.bing.net^
 ||softmgr.adfilter.cn^
+||software.zuitie.cn^
