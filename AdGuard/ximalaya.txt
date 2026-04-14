@@ -1,0 +1,38 @@
+# = 喜马拉雅 广告拦截主规则 =
+# 广告服务器域名
+||ad.ximalaya.com^
+||ad1.ximalaya.com^
+||ad2.ximalaya.com^
+||ad3.ximalaya.com^
+||adx.ximalaya.com^
+||ads.ximalaya.com^
+
+# 广告统计/行为追踪
+||log.ximalaya.com^
+||log1.ximalaya.com^
+||log2.ximalaya.com^
+||logxclouddns.ximalaya.com^
+||track.ximalaya.com^
+
+# 广告CDN/资源域（通配拦截）
+||himalaya*.v.himalaya.com^
+||himalaya*.vhostcn.com^
+||*.ad.ximalaya.com^
+
+# 视频/信息流广告拦截
+||*.himalaya.com^$important,domain=himalaya.com
+# 针对APP的通用广告拦截
+||*ad*.*.himalaya.com^
+
+# = 白名单：保证音频正常播放（必须加，否则APP会没声音） =
+@@||music.himalaya.com^
+@@||ws.himalaya.com^
+@@||l1.himalaya.com^
+@@||l2.himalaya.com^
+@@||l3.himalaya.com^
+@@||l4.himalaya.com^
+@@||a1.himalaya.com^
+@@||static.himalaya.com^
+
+# = 白名单：保证日志上报，避免APP闪退 =
+@@||log.ximalaya.com^
