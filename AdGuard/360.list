@@ -1,0 +1,153 @@
+%ProgramFiles%\360\360Safe\safemon\360Tray.exe    360安全卫士实时保护
+%ProgramFiles%\360\360Safe\SoftMgr\360speedld.exe    360开机助手  
+%ProgramFiles%\360\360Safe\LiveUpdate360.exe        LiveUpdate360   
+%ProgramFiles%\360\360Safe\deepscan\ZhuDongFangYu.exe   3 60主动防御服务模块
+%ProgramFiles%\60\360Safe\safemon\360Tray.exe       360安全防护中心模块 
+%ProgramFiles%\360\360Safe\360leakfixer.exe              安全卫士 系统修复模块 
+%ProgramFiles(x86)%\360\360Safe\360Safe.exe              360安全卫士主界面程序
+%ProgramFiles(x86)%\360\360Safe\360tray.exe               360安全卫士托盘图标程序
+%ProgramFiles(x86)%\360\360Safe\deepscan\360rp.exe     360实时保护/主动防御服务 
+%ProgramFiles(x86)%\360\360Safe\deepscan\360sd.exe      360杀毒/扫描核心
+%ProgramFiles(x86)%\360\360Safe\360leakrepair\360leakrepair.exe             360漏洞修复程序
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360SoftMgr.exe              360软件管家
+%ProgramFiles(x86)%\360\360Safe\LiveUpdate\360LiveUpdate.exe          360升级程序
+%ProgramFiles(x86)%\360\360Safe\Net\360netmon.exe                360流量防火墙
+%ProgramFiles(x86)%\360\360Safe\Utils\360UFO.exe                    360加速球/优化工具
+%ProgramFiles(x86)%\360\360Safe\Utils\360SysMon.exe                     360系统急救箱
+%ProgramFiles(x86)%\360\360Safe\AntiRootkit\360AntiRootkit.exe                  360木马防火墙
+%ProgramFiles(x86)%\360\360Safe\Scan\360Scan.exe                        360扫描程序
+%ProgramFiles(x86)%\360\360Safe\MiniDump\360MiniDump.exe            360崩溃报告工具
+%ProgramFiles(x86)%\360\360Safe\SodaDownloader.exe 苏打办公下载器
+%ProgramFiles(x86)%\360\360Safe\LiveUpdate360.exe  下载管理
+%ProgramFiles(x86)%\360\360Safe\DumpUper.exe  360杀毒 问题报告程序
+%ProgramFiles(x86)%\360\360Safe\360ShellPro.exe                360 Total Security
+%ProgramFiles(x86)%\360\360Safe\360DeskAna64.exe                      360安全卫士 系统修复图标扫描模块
+%ProgramFiles(x86)%\360\360Safe\360DeskAna.exe           360安全卫士 系统修复图标扫描模块
+%ProgramFiles(x86)%\360\360Safe\360AppLoader.exe  360安全卫士 程序加载模块
+safemon
+%ProgramFiles(x86)%\360\360Safe\safemon\360realpro.exe     360安全卫士 程序加载模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360LogCenter.exe  360安全卫士 日志中心模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360PayInsure.exe     360网购先赔
+%ProgramFiles(x86)%\360\360Safe\safemon\360RealPro.exe   360安全卫士 安全防护中心模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360sclog.exe       360安全卫士 安全防护中心模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360sctblist.exe     360安全卫士 安全防护中心模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360settingcenter.exe  360设置中心
+%ProgramFiles(x86)%\360\360Safe\safemon\360SPTool.exe        360安全卫士 木马防火墙
+%ProgramFiles(x86)%\360\360Safe\safemon\360Toasts.exe        360安全卫士 木马防火墙模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360UDiskGuard.exe    360安全卫士 木马防火墙模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360UDiskPro.exe        安全卫士 U盘助手模块
+%ProgramFiles(x86)%\360\360Safe\safemon\360Win7Shield.exe     360 Windows7 盾甲
+%ProgramFiles(x86)%\360\360Safe\safemon\360xpfix.exe       360安全卫士 安全防护中心模块
+%ProgramFiles(x86)%\360\360Safe\safemon\browprom.exe     360网盾 browprom
+%ProgramFiles(x86)%\360\360Safe\safemon\browprom64.exe  360网盾 browprom
+%ProgramFiles(x86)%\360\360Safe\safemon\EPSVHMiniDump64.exe   360安全卫士 盾甲MiniDump64捕获模块
+%ProgramFiles(x86)%\360\360Safe\safemon\PopWndTracker.exe  弹窗过滤器
+%ProgramFiles(x86)%\360\360Safe\safemon\wdfixsc.exe   wdfixsc
+%ProgramFiles(x86)%\360\360Safe\safemon\WDPayPro.exe   360网盾
+%ProgramFiles(x86)%\360\360Safe\safemon\WDSafeDown.exe  360网盾
+%ProgramFiles(x86)%\360\360Safe\safemon\wdsandbox.exe     360网盾
+%ProgramFiles(x86)%\360\360Safe\safemon\wdswfsafe.exe   360网盾
+%ProgramFiles(x86)%\360\360Safe\safemon\WscReg.exe    360安全卫士 安全中心接口
+Utils
+%ProgramFiles(x86)%\360\360Safe\Utils\360AdvToolExecutor.exe         360高级工具模块
+%ProgramFiles(x86)%\360\360Safe\Utils\360Feedback.exe                   帮助与反馈
+%ProgramFiles(x86)%\360\360Safe\Utils\360FileUnlock.exe                 360文件解锁相关程序
+%ProgramFiles(x86)%\360\360Safe\Utils\360MsgCenter.exe                  360安全通知
+%ProgramFiles(x86)%\360\360Safe\Utils\360Preview.exe                 360安全卫士 新功能展示模块
+%ProgramFiles(x86)%\360\360Safe\Utils\360ScreenCapture.exe          截屏工具
+%ProgramFiles(x86)%\360\360Safe\Utils\360SkinView.exe                360安全卫士 皮肤中心
+%ProgramFiles(x86)%\360\360Safe\Utils\360SwitchTips.exe             360设置开关提示
+%ProgramFiles(x86)%\360\360Safe\Utils\360UHelper.exe              360安全卫士 会员中心模块
+%ProgramFiles(x86)%\360\360Safe\Utils\FileSmasher.exe                360文件粉碎机
+%ProgramFiles(x86)%\360\360Safe\Utils\IA.exe                                 IANew
+%ProgramFiles(x86)%\360\360Safe\Utils\LeakFixHelper64.exe               360安全卫士 系统修复模块
+%ProgramFiles(x86)%\360\360Safe\Utils\LSPFix.exe                  360安全卫士 LSP修复模块    
+%ProgramFiles(x86)%\360\360Safe\Utils\MessageNotify.exe         360安全卫士 木马防火墙模块
+%ProgramFiles(x86)%\360\360Safe\Utils\ModuleUpdate.exe         ModuleUpdate
+%ProgramFiles(x86)%\360\360Safe\Utils\NewCenterSom.exe      360会员中心
+%ProgramFiles(x86)%\360\360Safe\Utils\NewIDView.exe              360安全卫士AI办公模块
+%ProgramFiles(x86)%\360\360Safe\Utils\PowerSaver.exe              360安全卫士卸载清理模块
+%ProgramFiles(x86)%\360\360Safe\Utils\SimpleIME.exe            360软件小助手
+sweeper
+%ProgramFiles(x86)%\360\360Safe\sweeper\360AutoClean.exe          360安全卫士 自动清理
+%ProgramFiles(x86)%\360\360Safe\sweeper\360CleanHelper.exe           360安全卫士 电脑清理
+%ProgramFiles(x86)%\360\360Safe\sweeper\360GarbageCleaner.exe              360安全卫士 桌面垃圾清理
+%ProgramFiles(x86)%\360\360Safe\sweeper\360WeekReport.exe                            360安全卫士 安全周报
+%ProgramFiles(x86)%\360\360Safe\sweeper\CleanHelper64.exe                  360安全卫士 垃圾清理辅助模块
+%ProgramFiles(x86)%\360\360Safe\sweeper\Tracehelper.exe                   360安全卫士 痕迹清理辅助模块
+SoftMgr
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360AICenter.exe                  纳米AI
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360FileAssoc.exe                 计算机程序
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360speedld.exe                 360软件管家 开机小助手
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360speedldEx.exe             360软件管家 开机小助手
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360SpeedldHealth.exe         360开机健康提醒
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\360speedldtoast.exe                  360软件管家 开机小助手
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\AdvUtils.exe                                360软件管家 开机加速
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\defaultsoftset.exe                      默认软件设置
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\EaInstHelper.exe                   360安全卫士 安全防护模块
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\EaInstHelper64.exe                360安全卫士 安全防护模块
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\GameChrome.exe                WebVeiw Host
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\PurifySoft.exe                      360软件管家-软件净化
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\QuickInstProxy.exe               360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\safesvr.exe                      安全卫士
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SDIS.exe                         SDIS Application           
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SecurityProxy.exe              360软件管家迅雷下载支持安全代理程序
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftManager.exe             360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftManagerLite.exe            360软件小助手
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftManagerProxy.exe              360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftMgr.exe                     360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftMgr64.exe              360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SoftupNotify.exe             360软件管家
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SpeedldSkin.exe                    360开机小助手 皮肤中心
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\SpeedldSlider.exe              360开机小助手 奥运金牌榜
+%ProgramFiles(x86)%\360\360Safe\SoftMgr\UninstSpeedup.exe           360安全卫士卸载挽留加速
+netmon
+%ProgramFiles(x86)%\360\360Safe\netmon\360Gsds.exe               360Gsds Module
+%ProgramFiles(x86)%\360\360Safe\netmon\360netman.exe              360流量防火墙
+%ProgramFiles(x86)%\360\360Safe\netmon\360NetRepair.exe            360断网急救箱
+%ProgramFiles(x86)%\360\360Safe\netmon\NetmProxy64.exe            360安全卫士 流量防火墙浮动窗口
+%ProgramFiles(x86)%\360\360Safe\netmon\NetmSkin.exe                360加速球 皮肤中心
+modules
+%ProgramFiles(x86)%\360\360Safe\modules\360SafeNotify.exe         360安全卫士
+%ProgramFiles(x86)%\360\360Safe\modules\360PatchMgr64.exe         360安全卫士 漏洞补丁安装模块
+%ProgramFiles(x86)%\360\360Safe\modules\360PatchMgr.exe           360安全卫士 漏洞补丁安装模块
+%ProgramFiles(x86)%\360\360Safe\modules\360Inst .exe                360安全卫士在线安装程序
+%ProgramFiles(x86)%\360\360Safe\modules\360fab.exe                    360fab Module
+%ProgramFiles(x86)%\360\360Safe\modules\360EvtMgr.exe          360安全卫士 故障感知模块
+
+%ProgramFiles(x86)%\360\360Safe\360zip\360zip.exe               360压缩
+%ProgramFiles(x86)%\360\360Safe\EntAdmin\360EntDT.exe        360企业安全云
+%ProgramFiles(x86)%\360\360Safe\EntAdmin\360EntHelper.exe          helper
+%ProgramFiles(x86)%\360\360Safe\ipc\DataProt.exe                         360安全卫士 安全防护中心模块
+%ProgramFiles(x86)%\360\360Safe\ipc\360boxmain.exe              360安全卫士 隔离沙箱模块
+%ProgramFiles(x86)%\360\360Safe\ipc\360BoxLd64.exe                 360隔离沙箱模块
+%ProgramFiles(x86)%\360\360Safe\ipc\360BoxLd.exe                  360隔离沙箱模块
+deepscan
+%ProgramFiles(x86)%\360\360Safe\deepscan\ZhuDongFangYu.exe           360主动防御服务模块
+%ProgramFiles(x86)%\360\360Safe\deepscan\DSMain.exe                         360安全卫士 程序加载模块
+%ProgramFiles(x86)%\360\360Safe\deepscan\CheckSM.exe                    360 FirstAid
+%ProgramFiles(x86)%\360\360Safe\deepscan\360netmgr64.exe            360安全卫士 公共模块
+%ProgramFiles(x86)%\360\360Safe\deepscan\360netcfg.exe                    360安全卫士 网络配置模块
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
